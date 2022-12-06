@@ -2369,9 +2369,6 @@ QPushButton:pressed
             <layout class="QVBoxLayout" name="verticalLayout_22">
              <item>
               <widget class="QGroupBox" name="groupBox_26">
-               <property name="enabled">
-                <bool>false</bool>
-               </property>
                <property name="title">
                 <string>MDI Areas (enabled - disabled)</string>
                </property>
