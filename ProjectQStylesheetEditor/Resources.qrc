@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/info_black_24dp.svg</file>
+        <file>Resources/style_colored_24dp.png</file>
+    </qresource>
+</RCC>
